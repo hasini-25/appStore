@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.tabs {
+  background-color: transparent;
+  border: 0px;
+  color: #1e293b;
+  font-size: 18px;
+  color: #7b8794;
+  font-family: 'Roboto';
+  font-weight: 600;
+  padding-top: 20px;
+  cursor: pointer;
+}
+hr {
+  width: 100px;
+  color: #7b8794;
+}
+.tab-select {
+  border: 1px solid #2563eb;
+}
